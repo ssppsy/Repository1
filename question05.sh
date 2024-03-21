@@ -1,3 +1,3 @@
 mkdir dir1
-touch dir/file2
-git add dir
+touch dir1/file2
+git add dir1
